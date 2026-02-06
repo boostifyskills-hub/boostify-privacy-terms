@@ -119,3 +119,33 @@
     margin-top: 20px;
   }
 }
+
+/* RTL support for Arabic */
+[dir="rtl"] .policy-content {
+  text-align: right;
+}
+
+[dir="rtl"] .policy-content ul {
+  padding-right: 24px;
+  padding-left: 0;
+}
+
+[dir="rtl"] .policy-content h1,
+[dir="rtl"] .policy-content h2,
+[dir="rtl"] .policy-content h3,
+[dir="rtl"] .policy-content h4 {
+  text-align: right;
+}
+
+/* Language selector positioning for RTL */
+[dir="rtl"] .language-selector {
+  right: auto;
+  left: 20px;
+}
+
+@media (max-width: 768px) {
+  [dir="rtl"] .language-selector {
+    left: 10px;
+    right: auto;
+  }
+}
