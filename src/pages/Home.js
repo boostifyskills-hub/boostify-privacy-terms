@@ -23,6 +23,11 @@ const Home = () => {
                 Terms of Service / Conditions Générales / شروط الخدمة
               </Link>
             </li>
+            <li>
+              <Link to="/support" style={{ color: '#007bff', textDecoration: 'none' }}>
+                Support / Assistance / الدعم
+              </Link>
+            </li>
           </ul>
         </div>
         
