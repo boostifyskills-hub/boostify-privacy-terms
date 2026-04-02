@@ -53,7 +53,6 @@ const EnglishVersion = () => (
       <li>contact@juniorscv.com</li>
     </ul>
 
-    <p>You can also use this web link: <a href="https://juniorcvbackend-mxog.onrender.com" target="_blank" rel="noopener noreferrer">https://juniorcvbackend-mxog.onrender.com</a></p>
 
     <hr />
 
@@ -97,7 +96,6 @@ const FrenchVersion = () => (
       <li>contact@juniorscv.com</li>
     </ul>
 
-    <p>Vous pouvez également utiliser ce lien web : <a href="https://juniorcvbackend-mxog.onrender.com" target="_blank" rel="noopener noreferrer">https://juniorcvbackend-mxog.onrender.com</a></p>
 
     <hr />
 
@@ -141,7 +139,6 @@ const ArabicVersion = () => (
       <li>contact@juniorscv.com</li>
     </ul>
 
-    <p>يمكنك أيضًا استخدام هذا الرابط: <a href="https://juniorcvbackend-mxog.onrender.com" target="_blank" rel="noopener noreferrer">https://juniorcvbackend-mxog.onrender.com</a></p>
 
     <hr />
 

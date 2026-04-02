@@ -139,7 +139,6 @@ const EnglishVersion = () => (
     <p><strong>Delete Your Account:</strong></p>
     <ul>
       <li>From the app: Go to your profile section and use the "Delete Account" feature</li>
-      <li>Via web link: <a href="https://juniorcvbackend-mxog.onrender.com" target="_blank" rel="noopener noreferrer">https://juniorcvbackend-mxog.onrender.com</a></li>
       <li>By email: contact@juniorscv.com or contact.boostifyskills@gmail.com</li>
     </ul>
     
@@ -293,7 +292,6 @@ const FrenchVersion = () => (
     <p><strong>Supprimer votre compte :</strong></p>
     <ul>
       <li>Depuis l'application : Accédez à votre section profil et utilisez la fonctionnalité « Supprimer le compte »</li>
-      <li>Via le lien web : <a href="https://juniorcvbackend-mxog.onrender.com" target="_blank" rel="noopener noreferrer">https://juniorcvbackend-mxog.onrender.com</a></li>
       <li>Par email : contact@juniorscv.com ou contact.boostifyskills@gmail.com</li>
     </ul>
     
@@ -448,7 +446,6 @@ const ArabicVersion = () => (
     <p><strong>احذف حسابك:</strong></p>
     <ul>
       <li>من التطبيق: انتقل إلى قسم الملف الشخصي واستخدم ميزة "حذف الحساب"</li>
-      <li>عبر رابط الويب: <a href="https://juniorcvbackend-mxog.onrender.com" target="_blank" rel="noopener noreferrer">https://juniorcvbackend-mxog.onrender.com</a></li>
       <li>عبر البريد الإلكتروني: contact@juniorscv.com أو contact.boostifyskills@gmail.com</li>
     </ul>
     
